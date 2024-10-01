@@ -1,10 +1,10 @@
 {
   "GRAPHRAG_API_BASE": "https://azure-openai-rag-team.openai.azure.com/",
   "GRAPHRAG_API_VERSION": "2023-03-15-preview",
-  "GRAPHRAG_EMBEDDING_DEPLOYMENT_NAME": "__GRAPHRAG_EMBEDDING_DEPLOYMENT_NAME__",
+  "GRAPHRAG_EMBEDDING_DEPLOYMENT_NAME": "text-embedding-ada-002",
   "GRAPHRAG_EMBEDDING_MODEL": "text-embedding-ada-002",
-  "GRAPHRAG_LLM_DEPLOYMENT_NAME": "__GRAPHRAG_LLM_DEPLOYMENT_NAME__",
+  "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4",
   "GRAPHRAG_LLM_MODEL": "gpt-4",
-  "LOCATION": "__LOCATION__",
+  "LOCATION": "East US",
   "RESOURCE_GROUP": "rag_team_resources"
 }
